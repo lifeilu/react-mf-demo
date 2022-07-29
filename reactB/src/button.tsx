@@ -2,7 +2,7 @@ import React from 'react';
 
 function TestButton() {
   return (
-    <div>TestButton from reactB</div>
+    <div>TestButtonfromreactB</div>
   )
 }
 

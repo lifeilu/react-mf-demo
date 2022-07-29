@@ -1,6 +1,6 @@
 import React, { Component, Suspense } from 'react';
 import './app.scss';
-// import BJImage from './images/01.jpeg';
+// @ts-ignore
 const TestButton = React.lazy(() => import('ReactB/Button'));
 
 class App extends Component {
